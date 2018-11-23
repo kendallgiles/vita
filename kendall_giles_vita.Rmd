@@ -2,7 +2,7 @@
 output: 
   pdf_document:
     latex_engine: pdflatex
-    template: ~/Dropbox/miscelanea/r-markdown-templates/latex-cv.tex
+    template: ~/Dropbox/VERSION_CONTROL/miscelanea/r-markdown-templates/latex-cv.tex
 geometry: margin=1in
 
 title: "CV"
