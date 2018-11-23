@@ -1,0 +1,277 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: ~/Dropbox/miscelanea/r-markdown-templates/latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Kendall Giles
+
+jobtitle: "Assistant Professor of Practice · Department of Electrical and Computer Engineering"
+address: "302 Whittemore (0111) · Virginia Tech · Blacksburg, VA  24061"
+fontawesome: yes
+email: giles@vt.edu
+# github: kendallgiles
+twitter: kendallgiles
+# phone: ...
+web: kendallgiles.com
+updated: yes
+
+keywords: Kendall Giles, R Markdown, academic CV, Virginia Tech
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Appointments
+
+*Virginia Tech*, Assistant Professor of Practice, Electrical and Computer Engineering \hfill August 2016--Present     
+
+*Virginia Tech*, Instructor, Electrical and Computer Engineering \hfill May--August 2016
+
+*US Department of Veterans Affairs Accelerated Learning Program* through True Information Assurance LLC through Orions Arrow Inc, Instructor \hfill September 2015--May 2016
+
+*Johns Hopkins University* Human Language Technology Center of Excellence (HLTCOE), Research Scientist \hfill June--August 2015
+
+*Johns Hopkins University* Human Language Technology Center of Excellence (HLTCOE), Research Scientist \hfill June--August 2009
+
+*Virginia Commonwealth University*, Assistant Professor, Statistical Sciences and Operations Research \hfill January 2008--August 2011
+
+*University of California--Los Angeles* Institute for Pure and Applied Mathematics, Faculty Mentor and Research Fellow \hfill June--December 2007
+
+*The College of William and Mary* Visiting Assistant Professor, Mathematics \hfill January 2006--May 2007
+
+*Virginia Commonwealth University*, Adjunct Instructor and Graduate Teaching Assistant,  Information Systems \hfill August 1998--December 2000, August--December 2001
+
+# Education
+
+*Computer Science, Johns Hopkins University*, PhD \hfill May 2007
+
+\hfill \footnotesize Dissertation: \emph{Knowledge Discovery in Computer Network Data: A Security Perspective} \normalsize
+
+*Creative Writing, University of Southern Maine*, MFA \hfill January 2013
+
+*Computer Science, Johns Hopkins University*, MS \hfill May 2004
+
+*Information Systems, Virginia Commonwealth University*, MS \hfill August 2002
+
+*Electrical Engineering, Purdue University*, MS \hfill May 1993
+
+
+*Electrical Engineering, Virginia Tech*, BS \hfill May 1991
+
+
+# Industry
+
+*Raytheon Systems, Falls Church, Virginia*, Senior Systems Engineer \hfill May 2001--November 2005
+
+*CUNA Mutual Credit Union and American Family Insurance (through SPR Technology Consultants) Milwaukee, Wisconsin*, Software Engineer \hfill February 1996--August 1998
+
+*GE Medical Systems, Milwaukee, Wisconsin*, Software Engineer \hfill August 1991--February 1996
+
+# Grants
+
+Virginia Open Data and Technology Course Platform, Virginia Tech Provost Office, \$50,000.00, PI, October 2018--October 2019.
+
+Virginia Open Data and Technology Course Curriculum, UVA Provost Office, \$50,000.00, Co-PI. October 2018--October 2019. 
+
+
+TechGirls Cybersecurity Summer Camp, Legacy International, U.S. State Department, \$20,000.00, 14--26 July 2019.
+
+Mentoring Program Project Grant, Virginia Tech Provost's Office, \$1,500.00, PI. December 2016--May 2018.
+
+“A Hierarchical and Iterative System for the Analysis of Streamed Text Data,” Human Language Technology Center for Excellence, Baltimore, Maryland, \$7,512, PI, May--September 2008.
+
+“The Design and Implementation of a System for Fusion and Inference from Multiple Disparate Data Sources,” Johns Hopkins University, \$102,560, PI, June 2009--May 2014.
+
+# Awards
+
+Summer Camp for Applied Language Exploration (SCALE) workshop, Johns Hopkins University, Baltimore, Maryland, June--August 2015.
+
+Short story “Here to Help” was displayed as a part of the international invitational ThinkSmall7 art exhibition in Richmond, Virginia, October--December 2013.
+
+Invited to read short story “Searching” at the international invitational ThinkSmall6 art exhibition at the Artspace gallery in Richmond, Virginia, 2011.
+
+Short story “A Delicate Touch” won the Raw Dog Screaming Press Retrospective Writing Contest, Judged by Michael Arnzen, October 2010.
+
+Summer Camp for Applied Language Exploration (SCALE) workshop, Johns Hopkins University, Baltimore, Maryland, June--August 2009.
+
+Virginia’s Center for Innovative Technology (CIT) Award, \$2,500, 1999.
+
+Graduate Teaching/Research Assistantship Award, Virginia Commonwealth University, Richmond, Virginia, 1998--1999, 1999--2000, 2000--2001.
+
+GE Night Out on the Town, GE Medical Systems, Milwaukee, Wisconsin, 1995.
+
+C.T. Tate University Distinguished Co-op Award, Virginia Tech, Blacksburg, Virginia, 1991.
+
+Litton Industries Scholarship, 1990--1991.
+
+ Engineering Study Abroad Scholarship, (Switzerland, Germany), Virginia Tech, Blacksburg, Virginia, 1990.
+
+Association of Old Crows Scholarship, 1988--1989.
+
+
+# Publications
+
+
+## Journal Articles
+
+Giles, K., M. Trosset, D. Marchette, and C. Priebe. “Iterative Denoising,” \emph{Computational Statistics}, 23:4, October, 2008.
+
+Fishkind, D., C. Priebe, K. Giles, L. Smith, and A. Aksakalli. “Disambiguation Protocols Based on Risk Simulation,” \emph{IEEE Transactions on Systems, Man, and Cybernetics, Part A}, 37:5, 814-823, September, 2007.
+
+Osei-Bryson, K. and K. Giles. “Splitting Methods for Decision Tree Induction: An Exploration of the Relative Performance of Two Entropy-Based Families,” \emph{Information Systems Frontiers Journal}, 8:195-209, Springer, July 2006.
+
+
+
+Osei-Bryson, K. and K. Giles. “An Exploration of a Set of Entropy-Based Hybrid Splitting Methods for Decision Tree Induction,” \emph{Journal of Database Management}, 15:3, 2004.
+
+
+Bryson, K., K. Giles, and B. Kositanurit. “Exploration of a Hybrid Feature Selection Algorithm,” \emph{Journal of the Operational Research Society}, 54:7, 790-797, 2003.
+
+
+Giles, K. “Understanding Ancient Martial Arts Texts: Pooh and Hermeneutics,” \emph{InYo: The Journal of Alternative Perspectives on the Martial Arts and Sciences}, December, 2000.
+
+## Conference Proceedings
+
+Giles, K., D. Marchette, and C. Priebe. “A Model of Backscatter as Escher Tessellations,” \emph{2005 Proceedings of the American Statistical Association, Statistical Graphics Section and Section on Statistics in Defense and National Security [CD-ROM]}, Alexandria, Virginia: American Statistical Association, 2005.
+
+Giles, K., D. Marchette, and C. Priebe. “On the Spectral Analysis of Backscatter Data,” \emph{Proceedings of the Hawaii International Conference on Statistics, Mathematics, and Related Fields}, 2004.
+
+Giles, K., D. Marchette, and C. Priebe. “The Development and Exploration of Online Classifiers for Backscatter from Denial of Service Attacks,” \emph{2004 Proceedings of the American Statistical Association, Statistical Computing Section [CD-ROM]}, Alexandria, Virginia: American Statistical Association, 2004.
+
+
+Giles, K., D. Marchette, and C. Priebe. “A Backscatter Characterization of Denial of Service Attacks,” \emph{2003 Proceedings of the American Statistical Association, Statistical Computing Section [CD-ROM]}, Alexandria, Virginia: American Statistical Association, 2003.
+
+Bryson, K. and K. Giles. “Splitting Methods for DT Induction: A Comparison of Two Families,” \emph{Proceedings of AMCIS 2002 (Americas Conference on Information Systems)}, Dallas, Texas, August 2002.
+
+Bryson, K., and K. Giles. “Attribute Discretization for Classification,” \emph{Proceedings of AMCIS 2001 (Americas Conference on Information Systems)}, Boston, Massachusetts, August 2001.
+
+Giles, K., K. Bryson, and Q. Weng. “Comparison of Two Families of Entropy-Based Classification Measures with and without Feature Selection,” \emph{HICSS (Hawaii International Conference on System Sciences)}, Wailea Maui, Hawaii, January 2001.
+
+Um, D., B. Stankovic, K. Giles, T. Hammond, and V. Lumelsky. “A Modularized Sensitive Skin for Motion Planning in Uncertain Environments,” \emph{Proceedings of the 1998 IEEE International Conference on Robotics and Automation}, Leuven, Belgium, May 1998.
+
+
+## Technical Reports
+
+Baker, K., Bethard, S., Bloodgood, M., Brown, R., Callison-Burch, C., Coppersmith, G., Dorr, B., Filardo, W., Giles, K., Irvine, A., Kayser, M., Levin, L., Martineau, J., Mayfield, J., Miller, S., Phillips, A., Philpot, A., Piatko, C., Schwartz, L., Zajic, D. “Semantically Informed Machine Translation,” \emph{Technical Report No. 002}, Human Language Technology Center of Excellence, Johns Hopkins University, Baltimore, Maryland, January 2010.
+
+Giles, K., D. Marchette, C. Priebe, and D. Waagen. “Iterative Denoising of Computer Network Application Traffic,” \emph{Technical Report No. 655}, Department of Applied Mathematics and Statistics, Johns Hopkins University, Baltimore, Maryland, November 2007.
+
+Giles, K., M. Trosset, D. Marchette, and C. Priebe. “Fast Iterative Denoising,” \emph{Technical Report No. 653}, Department of Applied Mathematics and Statistics, Johns Hopkins University, Baltimore, Maryland, December 2005.
+
+## Other Publications
+
+“Expand Your Writing Potential with a Smart Notebook and Pen,” ProfHacker Column Guest Post, \emph{The Chronicle of Higher Education}, April 2018.
+
+“6 Life-Changing Ways Your Black Belt Journey Can Transform You,” Essay, \emph{Breaking Muscle}, October 2014.
+
+
+“Here to Help,” Flash Fiction, \emph{ThinkSmall7 Art Exhibition}, October-December 2013.
+
+“Rebel Yell,” Short Story, Included in the Anthology \emph{Surreal South ’13}, published by Press 53, October 2013.
+
+“What Color Is Your Dojo?,” Essay, \emph{Breaking Muscle}, July 2012.
+
+“Bartitsu: The Steampunk Mixed Martial Art,” Essay, \emph{Breaking Muscle}, October 2012. 
+
+\hfill \footnotesize Ranked \#4 in most popular martial arts articles at \emph{Breaking Muscle} for 2012.\normalsize 
+
+
+“A Delicate Touch,” Short Story, \emph{Raw Dog Screaming Press}, October 2010. 
+
+\hfill \footnotesize Retrospective Writing Contest Winner.\normalsize
+
+“A Healing Place,” Short Story, \emph{The Dead Mule  School of Southern Literature Journal}, April 2010.
+	
+“Parting Thoughts,” Essay, \emph{InYo: The Journal of Alternative Perspectives on the Martial Arts and Sciences}, January 2012.
+
+“Understanding Ancient Martial Arts Texts: Pooh and Hermeneutics,” Essay, \emph{InYo: The Journal of Alternative Perspectives on the Martial Arts and Sciences}, Reprint, July 2011.
+		
+“Understanding Ancient Martial Arts Texts: Pooh and Hermeneutics,” Essay, \emph{InYo: The Journal of Alternative Perspectives on the Martial Arts and Sciences}, December 2000.
+		
+# Presentations
+
+“Social Media for Academic Success,” STS 5424: Academic Publishing in Practice and Theory, Virginia Tech, Blacksburg, Virginia, April 2018.
+
+“Publishing: Inside a Literary Agency,” University of Southern Maine, Freeport, Maine, January 2013.
+
+“A Brief Look at Information Technology,” Copenhagen Business School, Copenhagen, Denmark, November 2012.
+
+“Doomsayers and Deniers: Data Analysis, Science, Politics, and Public Opinion in Climate Change,” Senior Symposium, Lynchburg College, Lynchburg, Virginia, February 2011.
+
+“What do You do with an Engineering Degree?” Student Engineers Council, College of Engineering, Virginia Tech, Blacksburg, Virginia, January, 2010.
+
+“An Introduction to R,” lecture for OPER/STAT 690 Research and Communications Seminar, and SYSM 681 Systems Seminar I, August 2009.
+
+“Consulting Experiences,” Panel Discussion, STAT/OR 490 Communications in Statistics and Operations Research, Virginia Commonwealth University, Richmond, Virginia, March 2009.
+
+“Knowledge Discovery with Iterative Denoising,” BINF739 Text Data Mining in Bioinformatics, Department of Bioinformatics and Computational Biology, George Mason University, Manassas, Virginia, March 2009.
+
+“Knowledge Discovery with Iterative Denoising,” Seminar, Computer Science Department, Virginia Commonwealth University, Richmond, Virginia, October 2008.
+
+“Interactive Text Analysis with Iterative Denoising,” Interface 2008, Text Data Analysis Session, Durham, North Carolina, May 2008.
+
+“Communication in Industry: Lessons Learned the Hard Way,” Lecture Presentation to STAT/OR 490: Communications in Statistics and Operations Research, Virginia Commonwealth University, Richmond, Virginia, April 2008.
+
+“Text Analysis with Iterative Denoising,” International Biometric Society, Eastern North American Region (ENAR), Arlington, Virginia, March 2008.
+
+“Iterative Denoising: A Flexible (and applicable to bioinformatics?) Knowledge Discovery Methodology,” Bioinformatics Colloquium, George Mason University, Manassas, Virginia, February 2008.
+
+“Scan Statistics on Enron Graphs,” Mathematics of Knowledge and Search Engines research program, University of California, Los Angeles, Institute for Pure and Applied Mathematics, Los Angeles, California, October 2007.
+
+“An Introduction to Google’s PageRank,” Mathematics of Knowledge and Search Engines research program, University of California, Los Angeles, Institute for Pure and Applied Mathematics, Los Angeles, California, September 2007.
+
+“Basics of Knowledge Discovery Engines,” Mathematics of Knowledge and Search Engines research program, University of California, Los Angeles, Institute for Pure and Applied Mathematics, Los Angeles, California, September 2007.
+
+# Teaching
+
+## Virginia Tech
+
+ECE 5480: Cybersecurity and the Internet of Things, Graduate, 3 sections.
+
+ECE 5484: Fundamentals of Computer Systems, Graduate, 3 sections.
+
+CS 4264: Principles of Computer Security, Undergraduate, 1 section.
+
+
+## Virginia Commonwealth University 
+
+STAT 544: Statistical Methods II, Graduate, 1 section.
+
+STAT 736/OPER 736: Mathematics of Knowledge and Search Engines, Graduate, 2 sections.
+
+STAT 543: Statistical Methods I, Graduate, 1 section.
+
+STAT 541: Applied Statistics for Engineers and Scientists, Graduate, 5 sections.
+
+STAT 321: Introduction to Statistical Computing, Undergraduate, 2 sections.
+
+INFO 610: Analysis and Design of Database Systems, Graduate, 1 section.
+
+INFO 258: Visual Basic Programming, Undergraduate, 2 sections on campus and 1 section at WhiteOak Semiconductor, Richmond, Virginia.
+
+INFO 362: Computer Hardware and Software, Undergraduate, 1 section.
+
+INFO 291: Topics: Web Development, Undergraduate, 1 section at Software Development Center-Lee, the U.S. Army’s largest software development center, Fort Lee Army Base, Fort Lee, Virginia.
+
+INFO 491: Electronic Commerce, grading and lecturing, Undergraduate, 1 section. 
+
+
+
+## The College of William and Mary 
+
+M106: Elementary Probability and Statistics, Undergraduate, 4 sections.
+
+M351: Applied Statistics, Undergraduate, 2 sections.
+
+M410: Topics in Mathematics-Statistical Learning \& Applications to Text Analysis, Undergraduate, 1 section.
+
+M459: Guest Lecturer for Math 459: Knowledge Discovery for Bioinformatics, Undergraduate, January 2006.
+
+
+		
