@@ -1,30 +1,27 @@
 ---
-output: 
+title: "CV"
+author: "Kendall Giles"
+email: giles@vt.edu
+output:
+  # html_document:
+  #  df_print: paged
   pdf_document:
     latex_engine: pdflatex
     template: ~/Dropbox/VERSION_CONTROL/miscelanea/r-markdown-templates/latex-cv.tex
-geometry: margin=1in
-
-title: "CV"
-author: Kendall Giles
-
-jobtitle: "Assistant Professor of Practice · Department of Electrical and Computer Engineering"
-address: "302 Whittemore (0111) · Virginia Tech · Blacksburg, VA  24061"
-fontawesome: yes
-email: giles@vt.edu
-# github: kendallgiles
-twitter: kendallgiles
-# phone: ...
-web: kendallgiles.com
-updated: yes
-
-keywords: Kendall Giles, R Markdown, academic CV, Virginia Tech
-
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
+geometry: margin=1in
+jobtitle: Assistant Professor of Practice · Department of Electrical and Computer
+  Engineering
+keywords: Kendall Giles, R Markdown, academic CV, Virginia Tech
 linkcolor: blue
+fontawesome: yes
+address: 302 Whittemore (0111) · Virginia Tech · Blacksburg, VA  24061
+twitter: kendallgiles
+updated: yes
 urlcolor: blue
+web: kendallgiles.com
 ---
 
 # Appointments
@@ -232,9 +229,9 @@ Giles, K., M. Trosset, D. Marchette, and C. Priebe. “Fast Iterative Denoising,
 
 ## Virginia Tech
 
-ECE 5480: Cybersecurity and the Internet of Things, Graduate, 3 sections.
+ECE 5480: Cybersecurity and the Internet of Things, Graduate, 4 sections.
 
-ECE 5484: Fundamentals of Computer Systems, Graduate, 3 sections.
+ECE 5484: Fundamentals of Computer Systems, Graduate, 4 sections.
 
 CS 4264: Principles of Computer Security, Undergraduate, 1 section.
 
